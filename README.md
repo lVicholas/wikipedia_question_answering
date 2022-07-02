@@ -1,3 +1,5 @@
+# Question Answering with Info Retrieval
+
 This app allows you to interact with an NLP model which automatically answers
 questions. If a SerpAPI key is provided when runnning the streamlit script,
 then questions can be asked without providing the title of a Wikipedia article
