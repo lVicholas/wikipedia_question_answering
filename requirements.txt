@@ -1,0 +1,6 @@
+absl_py==1.0.0
+google_search_results==2.4.1
+streamlit==1.10.0
+transformers==4.20.0
+tensorflow==2.8.0
+Wikipedia_API==0.5.4
